@@ -15,6 +15,11 @@ export default [
     collapsed: true,
     items: [
       { text: "JS 简介", link: "/fe/js/what_is_js" },
+      { text: "js 运算符", link: "/fe/js/yunsuanfu" },
+      {
+        text: "深入理解js数据类型与堆栈内存",
+        link: "/fe/js/leixing-neicunzan",
+      },
       { text: "JS 数组", link: "/fe/js/array" },
       { text: "Web Storage 浏览器本地存储", link: "/fe/js/webstorage" },
       { text: "JS 模块化", link: "/fe/js/js_modules" },

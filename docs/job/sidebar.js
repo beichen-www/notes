@@ -7,6 +7,7 @@ export default [
       { text: "支付宝支付", link: "/job/uni-app/alipay-pay" },
       { text: "微信And支付宝(封装)", link: "/job/uni-app/wechat-alipay-pay" },
       { text: "Axios(封装)", link: "/job/request/axios" },
+      { text: "微信公众号分享", link: "/job/h5/share" },
     ],
   },
   {
