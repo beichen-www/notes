@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as n}from"./app.1f94238b.js";const b=JSON.parse('{"title":"webpack 常用指令","description":"","frontmatter":{},"headers":[],"relativePath":"fe/webpack/webpack-basis-order.md"}'),s={name:"fe/webpack/webpack-basis-order.md"},l=n("",3),r=[l];function c(i,d,p,o,_,g){return t(),a("div",null,r)}const h=e(s,[["render",c]]);export{b as __pageData,h as default};
